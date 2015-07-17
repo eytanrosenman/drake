@@ -1,4 +1,8 @@
 body {
   background-image: url('http://www.featurepics.com/FI/Thumb300/20120215/Abstract-Gold-Frame-2149958.jpg');
+} 
+
+.pic{
+  max-height: 525px;
 }
 

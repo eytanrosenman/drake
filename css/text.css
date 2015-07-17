@@ -1,3 +1,12 @@
 #drake-text{
   font-size: 500%;
 }
+
+@font-face{
+  font-family: "drake";
+  src: url("Drake-Neue-Regular.otf");
+}
+
+header, footer{
+  font-family: "drake";
+}
